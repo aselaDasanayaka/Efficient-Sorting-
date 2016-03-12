@@ -1,0 +1,72 @@
+ass@ass-Inspiron-7520:~/Desktop/sort/ex2$ ./quicksortM
+
+---- Without optimization ----
+
+Time for one sort : 0.177044
+Time for one sort : 0.183313
+Time for one sort : 0.173218
+Time for one sort : 0.173657
+Time for one sort : 0.175537
+Time for one sort : 0.175565
+Time for one sort : 0.176305
+Time for one sort : 0.176639
+Time for one sort : 0.178524
+Time for one sort : 0.173888
+Time for one sort : 0.176014
+Time for one sort : 0.177422
+Time for one sort : 0.175937
+Time for one sort : 0.178511
+Time for one sort : 0.176227
+Time for one sort : 0.177324
+Time for one sort : 0.177418
+Time for one sort : 0.177716
+Time for one sort : 0.177181
+Time for one sort : 0.186155
+Time for one sort : 0.185889
+Time for one sort : 0.181810
+Time for one sort : 0.180906
+Time for one sort : 0.177766
+Time for one sort : 0.179765
+Time for one sort : 0.186976
+Time for one sort : 0.180266
+Time for one sort : 0.180869
+Time for one sort : 0.177873
+Time for one sort : 0.177144
+
+Average time for one sort out of 30 Without optimization: 0.178429
+
+---- With optimization ----
+
+Time for one sort : 0.168643
+Time for one sort : 0.166935
+Time for one sort : 0.164712
+Time for one sort : 0.165258
+Time for one sort : 0.163042
+Time for one sort : 0.165645
+Time for one sort : 0.164611
+Time for one sort : 0.165497
+Time for one sort : 0.167250
+Time for one sort : 0.171744
+Time for one sort : 0.165914
+Time for one sort : 0.164544
+Time for one sort : 0.162007
+Time for one sort : 0.164941
+Time for one sort : 0.164968
+Time for one sort : 0.163425
+Time for one sort : 0.164257
+Time for one sort : 0.164419
+Time for one sort : 0.165831
+Time for one sort : 0.164655
+Time for one sort : 0.164726
+Time for one sort : 0.164550
+Time for one sort : 0.165069
+Time for one sort : 0.165635
+Time for one sort : 0.164731
+Time for one sort : 0.161298
+Time for one sort : 0.165747
+Time for one sort : 0.164866
+Time for one sort : 0.166167
+Time for one sort : 0.162416
+
+Average time for one sort out of 30 With optimization ( threshold : 10 ) : 0.343545
+

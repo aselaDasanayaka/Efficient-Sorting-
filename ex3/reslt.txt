@@ -1,0 +1,33 @@
+ass@ass-Inspiron-7520:~/Desktop/sort/ex3$ ./heaptstM 
+Time for one sort : 1.850770
+Time for one sort : 1.850265
+Time for one sort : 1.852928
+Time for one sort : 1.850348
+Time for one sort : 1.852211
+Time for one sort : 1.882404
+Time for one sort : 1.880794
+Time for one sort : 1.901356
+Time for one sort : 1.930771
+Time for one sort : 1.860956
+Time for one sort : 1.854683
+Time for one sort : 1.858068
+Time for one sort : 1.857186
+Time for one sort : 1.857176
+Time for one sort : 1.851064
+Time for one sort : 1.861125
+Time for one sort : 1.852246
+Time for one sort : 1.849644
+Time for one sort : 1.854484
+Time for one sort : 1.873128
+Time for one sort : 1.882637
+Time for one sort : 1.871717
+Time for one sort : 1.851110
+Time for one sort : 1.868496
+Time for one sort : 1.908288
+Time for one sort : 1.892642
+Time for one sort : 1.937587
+Time for one sort : 1.872720
+Time for one sort : 1.862385
+Time for one sort : 1.851872
+Average time for one sort out of 30 : 1.869369
+
