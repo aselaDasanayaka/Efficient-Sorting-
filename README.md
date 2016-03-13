@@ -1,5 +1,5 @@
 # Efficient-Sorting
 
-# merge sort , quick sort, heap sort 
+merge sort , quick sort, heap sort 
 
-# test with 1,000,000 elements(integers)
+test with 1,000,000 elements(integers)
